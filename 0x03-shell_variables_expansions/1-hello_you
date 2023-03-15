@@ -1,3 +1,2 @@
 #!/bin/bash
-echo "hello_$(whoami)!"
-
+echo "hello_$(whoami)"
